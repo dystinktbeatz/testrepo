@@ -1,2 +1,2 @@
 # testrepo
-test edid
+test edit
